@@ -1,0 +1,13 @@
+.app-content {
+  margin-top: 5vh;
+  max-width: 60rem;
+}
+
+.set-form {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.feature-check {
+  min-width: 8rem;
+}
